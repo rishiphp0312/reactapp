@@ -1,5 +1,5 @@
 {
-  "name": "youtube-tester",
+  "name": "youtubeapp",
   "version": "0.1.0",
   "private": true,
   "scripts": {
@@ -10,6 +10,7 @@
   },
   "dependencies": {
     "autoprefixer": "10.4.15",
+    "aws-sdk": "^2.1462.0",
     "axios": "^1.5.0",
     "chart.js": "^4.4.0",
     "file-saver": "^2.0.5",
